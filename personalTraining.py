@@ -1,4 +1,4 @@
-__author__ = 'saamaphinda-lebbie'
+__author__ = 'you_author'
 from pymongo import Connection
 import datetime
 
